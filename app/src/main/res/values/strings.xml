@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="full_name">Full Name: </string>
+    <string name="john_lim">John lim</string>
+    <string name="phone">Phone:</string>
+    <string name="_82345678">82345678</string>
+    <string name="booking">Booking</string>
+    <string name="group_size">Group Size:</string>
+    <string name="_3">3</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+    <string name="smoking_room">Smoking Room</string>
+</resources>
